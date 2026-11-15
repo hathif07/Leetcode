@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:50:45.241Z",
+  "updatedAt": "2026-11-15T14:50:58.945Z",
   "problems": [
     {
       "frontendId": "678",
@@ -24,6 +24,26 @@
           "path": "Leetcode/0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
           "sha": "85d7a54d76eb875ad25860c2f3c550cba54d7528",
           "lastSyncedAt": "2026-11-15T14:50:45.241Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1111",
+      "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
+      "slug": "maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "problemName": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "folderPath": "Leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/",
+      "readmePath": "Leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1111-maximum-nesting-depth-of-two-valid-parentheses-strings.py",
+          "path": "Leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.py",
+          "sha": "f985e8abc48832debe81301e10e3ae7a72d3e0b7",
+          "lastSyncedAt": "2026-11-15T14:50:58.945Z"
         }
       ]
     },

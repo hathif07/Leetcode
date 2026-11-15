@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:54:48.136Z",
+  "updatedAt": "2026-11-15T14:54:54.751Z",
   "problems": [
+    {
+      "frontendId": "168",
+      "title": "Excel Sheet Column Title",
+      "slug": "excel-sheet-column-title",
+      "problemName": "0168-excel-sheet-column-title",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
+      "folderPath": "Leetcode/0168-excel-sheet-column-title/",
+      "readmePath": "Leetcode/0168-excel-sheet-column-title/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0168-excel-sheet-column-title.py",
+          "path": "Leetcode/0168-excel-sheet-column-title/0168-excel-sheet-column-title.py",
+          "sha": "cbfb8de2913947907ecdc2e6f5da906080f1223a",
+          "lastSyncedAt": "2026-11-15T14:54:54.751Z"
+        }
+      ]
+    },
     {
       "frontendId": "242",
       "title": "Valid Anagram",

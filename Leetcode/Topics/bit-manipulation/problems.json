@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T15:00:06.989Z",
+  "updatedAt": "2026-11-15T15:00:35.181Z",
   "problems": [
     {
       "frontendId": "67",
@@ -164,6 +164,26 @@
           "path": "Leetcode/0461-hamming-distance/0461-hamming-distance.py",
           "sha": "39d027cd7f0cfb57e920c1482f26045e23de6adc",
           "lastSyncedAt": "2026-11-15T14:51:16.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "693",
+      "title": "Binary Number with Alternating Bits",
+      "slug": "binary-number-with-alternating-bits",
+      "problemName": "0693-binary-number-with-alternating-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+      "folderPath": "Leetcode/0693-binary-number-with-alternating-bits/",
+      "readmePath": "Leetcode/0693-binary-number-with-alternating-bits/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "0693-binary-number-with-alternating-bits.c",
+          "path": "Leetcode/0693-binary-number-with-alternating-bits/0693-binary-number-with-alternating-bits.c",
+          "sha": "2cd3820ad62bdbee43f02d348df985b633dcfe71",
+          "lastSyncedAt": "2026-11-15T15:00:35.181Z"
         }
       ]
     },

@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T14:52:51.117Z",
+  "updatedAt": "2026-11-15T14:53:16.787Z",
   "problems": [
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "Leetcode/0231-power-of-two/",
+      "readmePath": "Leetcode/0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0231-power-of-two.py",
+          "path": "Leetcode/0231-power-of-two/0231-power-of-two.py",
+          "sha": "c1d08f525647cbaa6d8193c5fe76c567a90d995d",
+          "lastSyncedAt": "2026-11-15T14:53:16.787Z"
+        }
+      ]
+    },
     {
       "frontendId": "263",
       "title": "Ugly Number",

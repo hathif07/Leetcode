@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T14:51:06.338Z",
+  "updatedAt": "2026-11-15T14:51:22.695Z",
   "problems": [
     {
       "frontendId": "500",
@@ -24,6 +24,26 @@
           "path": "Leetcode/0500-keyboard-row/0500-keyboard-row.py",
           "sha": "9f5ad35d8797b3f4072dcda02f75c71d2405cfc8",
           "lastSyncedAt": "2026-11-15T14:51:06.338Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "problemName": "3945-digit-frequency-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
+      "folderPath": "Leetcode/3945-digit-frequency-score/",
+      "readmePath": "Leetcode/3945-digit-frequency-score/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3945-digit-frequency-score.py",
+          "path": "Leetcode/3945-digit-frequency-score/3945-digit-frequency-score.py",
+          "sha": "0653cee0581f02446382e4e425abb0da5f88ce56",
+          "lastSyncedAt": "2026-11-15T14:51:22.695Z"
         }
       ]
     }

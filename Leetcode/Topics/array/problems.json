@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T14:59:13.734Z",
+  "updatedAt": "2026-11-15T14:59:28.968Z",
   "problems": [
     {
       "frontendId": "14",
@@ -344,6 +344,26 @@
           "path": "Leetcode/1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.py",
           "sha": "0f4caf4cc84447044d72093357ad7854ccc16bcd",
           "lastSyncedAt": "2026-11-15T14:54:48.136Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2946",
+      "title": "Matrix Similarity After Cyclic Shifts",
+      "slug": "matrix-similarity-after-cyclic-shifts",
+      "problemName": "2946-matrix-similarity-after-cyclic-shifts",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
+      "folderPath": "Leetcode/2946-matrix-similarity-after-cyclic-shifts/",
+      "readmePath": "Leetcode/2946-matrix-similarity-after-cyclic-shifts/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2946-matrix-similarity-after-cyclic-shifts.py",
+          "path": "Leetcode/2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.py",
+          "sha": "c2cef57fc1a1092860d2233aa36a30df5fb2b516",
+          "lastSyncedAt": "2026-11-15T14:59:28.968Z"
         }
       ]
     },

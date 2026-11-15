@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T14:52:09.458Z",
+  "updatedAt": "2026-11-15T14:52:32.964Z",
   "problems": [
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "Leetcode/0344-reverse-string/",
+      "readmePath": "Leetcode/0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0344-reverse-string.py",
+          "path": "Leetcode/0344-reverse-string/0344-reverse-string.py",
+          "sha": "4b518dbf467aebf466a962307cdb8bc78d23285e",
+          "lastSyncedAt": "2026-11-15T14:52:32.964Z"
+        }
+      ]
+    },
     {
       "frontendId": "392",
       "title": "Is Subsequence",

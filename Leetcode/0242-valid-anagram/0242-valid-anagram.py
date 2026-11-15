@@ -1,0 +1,20 @@
+class Solution(object):
+    def isAnagram(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        if len(s) != len(t):
+            return False
+            
+        counts = {}
+        for char in s:
+            counts[char] = counts.get(char, 0) + 1
+            
+        for char in t:
+            if char not in counts or counts[char] == 0:
+                return False
+            counts[char] -= 1
+            
+        return True

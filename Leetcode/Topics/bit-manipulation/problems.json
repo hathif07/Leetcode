@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T14:58:48.554Z",
+  "updatedAt": "2026-11-15T14:59:41.206Z",
   "problems": [
     {
       "frontendId": "67",
@@ -164,6 +164,26 @@
           "path": "Leetcode/0461-hamming-distance/0461-hamming-distance.py",
           "sha": "39d027cd7f0cfb57e920c1482f26045e23de6adc",
           "lastSyncedAt": "2026-11-15T14:51:16.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1009",
+      "title": "Complement of Base 10 Integer",
+      "slug": "complement-of-base-10-integer",
+      "problemName": "1009-complement-of-base-10-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/complement-of-base-10-integer/",
+      "folderPath": "Leetcode/1009-complement-of-base-10-integer/",
+      "readmePath": "Leetcode/1009-complement-of-base-10-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1009-complement-of-base-10-integer.py",
+          "path": "Leetcode/1009-complement-of-base-10-integer/1009-complement-of-base-10-integer.py",
+          "sha": "30d2166fbaa8dd9527c092ce0e29ca224b343db2",
+          "lastSyncedAt": "2026-11-15T14:59:41.206Z"
         }
       ]
     },

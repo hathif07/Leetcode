@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T15:00:39.852Z",
+  "updatedAt": "2026-11-15T15:01:14.325Z",
   "problems": [
     {
       "frontendId": "13",
@@ -564,6 +564,26 @@
           "path": "Leetcode/3110-score-of-a-string/3110-score-of-a-string.py",
           "sha": "0a320884d3e4bccb890e2c2be2309d26d6d4569e",
           "lastSyncedAt": "2026-11-15T14:59:08.702Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3750",
+      "title": "Minimum Number of Flips to Reverse Binary String",
+      "slug": "minimum-number-of-flips-to-reverse-binary-string",
+      "problemName": "3750-minimum-number-of-flips-to-reverse-binary-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string/",
+      "folderPath": "Leetcode/3750-minimum-number-of-flips-to-reverse-binary-string/",
+      "readmePath": "Leetcode/3750-minimum-number-of-flips-to-reverse-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3750-minimum-number-of-flips-to-reverse-binary-string.py",
+          "path": "Leetcode/3750-minimum-number-of-flips-to-reverse-binary-string/3750-minimum-number-of-flips-to-reverse-binary-string.py",
+          "sha": "63c1ec2e38ef919adca69436b002ac47dc86e370",
+          "lastSyncedAt": "2026-11-15T15:01:14.325Z"
         }
       ]
     },

@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T14:57:50.048Z",
+  "updatedAt": "2026-11-15T14:58:24.908Z",
   "problems": [
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "Leetcode/0027-remove-element/",
+      "readmePath": "Leetcode/0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0027-remove-element.py",
+          "path": "Leetcode/0027-remove-element/0027-remove-element.py",
+          "sha": "cfec360d1d27f0645a02ece31c6d6c85f46918f1",
+          "lastSyncedAt": "2026-11-15T14:58:24.908Z"
+        }
+      ]
+    },
     {
       "frontendId": "28",
       "title": "Find the Index of the First Occurrence in a String",

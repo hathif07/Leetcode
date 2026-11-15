@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T15:01:14.325Z",
+  "updatedAt": "2026-11-15T15:01:52.659Z",
   "problems": [
     {
       "frontendId": "9",
@@ -384,6 +384,26 @@
           "path": "Leetcode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "5c65fe8dd68ed93187dbdd23cd267a9812f8a592",
           "lastSyncedAt": "2026-11-15T14:51:36.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.c",
+          "path": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.c",
+          "sha": "1bd8e827c4f68a8057ca471bdcc763243096af58",
+          "lastSyncedAt": "2026-11-15T15:01:52.659Z"
         }
       ]
     },

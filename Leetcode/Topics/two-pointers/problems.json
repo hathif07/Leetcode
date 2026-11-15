@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T15:06:38.404Z",
+  "updatedAt": "2026-11-15T15:06:55.026Z",
   "problems": [
     {
       "frontendId": "26",
@@ -283,7 +283,7 @@
           "filename": "4014-minimum-total-price-after-applying-discounts.py",
           "path": "Leetcode/4014-minimum-total-price-after-applying-discounts/4014-minimum-total-price-after-applying-discounts.py",
           "sha": "6533320de0f2808df5d3a2eaaa6566a14d5e4c88",
-          "lastSyncedAt": "2026-11-15T14:53:05.938Z"
+          "lastSyncedAt": "2026-11-15T15:06:55.026Z"
         }
       ]
     }

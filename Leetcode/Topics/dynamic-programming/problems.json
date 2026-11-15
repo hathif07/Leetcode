@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T14:55:54.819Z",
+  "updatedAt": "2026-11-15T14:57:09.428Z",
   "problems": [
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "Leetcode/0070-climbing-stairs/",
+      "readmePath": "Leetcode/0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0070-climbing-stairs.py",
+          "path": "Leetcode/0070-climbing-stairs/0070-climbing-stairs.py",
+          "sha": "9080d8644c14634216290f35275c597f422b8f95",
+          "lastSyncedAt": "2026-11-15T14:57:09.428Z"
+        }
+      ]
+    },
     {
       "frontendId": "118",
       "title": "Pascal's Triangle",

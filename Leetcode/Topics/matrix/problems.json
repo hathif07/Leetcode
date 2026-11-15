@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-15T14:59:51.888Z",
+  "updatedAt": "2026-11-15T15:01:24.471Z",
   "problems": [
     {
       "frontendId": "1582",
@@ -24,6 +24,26 @@
           "path": "Leetcode/1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.py",
           "sha": "cb8c2ddbd7ac3045139a246f6a3ea9c3b06d6864",
           "lastSyncedAt": "2026-11-15T14:59:51.888Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2536",
+      "title": "Increment Submatrices by One",
+      "slug": "increment-submatrices-by-one",
+      "problemName": "2536-increment-submatrices-by-one",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one/",
+      "folderPath": "Leetcode/2536-increment-submatrices-by-one/",
+      "readmePath": "Leetcode/2536-increment-submatrices-by-one/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2536-increment-submatrices-by-one.c",
+          "path": "Leetcode/2536-increment-submatrices-by-one/2536-increment-submatrices-by-one.c",
+          "sha": "1eb4ffd5bc234e3d106e2e129f195afad95c5b1c",
+          "lastSyncedAt": "2026-11-15T15:01:24.471Z"
         }
       ]
     },

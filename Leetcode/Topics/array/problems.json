@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T14:52:01.425Z",
+  "updatedAt": "2026-11-15T14:52:19.396Z",
   "problems": [
     {
       "frontendId": "500",
@@ -44,6 +44,26 @@
           "path": "Leetcode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "5c65fe8dd68ed93187dbdd23cd267a9812f8a592",
           "lastSyncedAt": "2026-11-15T14:51:36.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "Leetcode/3875-construct-uniform-parity-array-i/",
+      "readmePath": "Leetcode/3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3875-construct-uniform-parity-array-i.py",
+          "path": "Leetcode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
+          "sha": "1c06d04b96982d7e93bc07dbadeec1b8ebad02cf",
+          "lastSyncedAt": "2026-11-15T14:52:19.396Z"
         }
       ]
     },

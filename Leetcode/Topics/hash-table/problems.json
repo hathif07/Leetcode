@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "hash-table",
+    "name": "Hash Table",
+    "tagId": "6"
+  },
+  "updatedAt": "2026-11-15T14:51:06.338Z",
+  "problems": [
+    {
+      "frontendId": "500",
+      "title": "Keyboard Row",
+      "slug": "keyboard-row",
+      "problemName": "0500-keyboard-row",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
+      "folderPath": "Leetcode/0500-keyboard-row/",
+      "readmePath": "Leetcode/0500-keyboard-row/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0500-keyboard-row.py",
+          "path": "Leetcode/0500-keyboard-row/0500-keyboard-row.py",
+          "sha": "9f5ad35d8797b3f4072dcda02f75c71d2405cfc8",
+          "lastSyncedAt": "2026-11-15T14:51:06.338Z"
+        }
+      ]
+    }
+  ]
+}

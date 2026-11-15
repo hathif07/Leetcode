@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T15:00:51.350Z",
+  "updatedAt": "2026-11-15T15:01:05.112Z",
   "problems": [
     {
       "frontendId": "9",
@@ -384,6 +384,26 @@
           "path": "Leetcode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "5c65fe8dd68ed93187dbdd23cd267a9812f8a592",
           "lastSyncedAt": "2026-11-15T14:51:36.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3751",
+      "title": "Total Waviness of Numbers in Range I",
+      "slug": "total-waviness-of-numbers-in-range-i",
+      "problemName": "3751-total-waviness-of-numbers-in-range-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/",
+      "folderPath": "Leetcode/3751-total-waviness-of-numbers-in-range-i/",
+      "readmePath": "Leetcode/3751-total-waviness-of-numbers-in-range-i/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3751-total-waviness-of-numbers-in-range-i.py",
+          "path": "Leetcode/3751-total-waviness-of-numbers-in-range-i/3751-total-waviness-of-numbers-in-range-i.py",
+          "sha": "8e43fe6089fbe4fe569debb252c83b7f69be7f71",
+          "lastSyncedAt": "2026-11-15T15:01:05.112Z"
         }
       ]
     },

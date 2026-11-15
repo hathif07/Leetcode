@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T14:55:07.400Z",
+  "updatedAt": "2026-11-15T14:55:16.723Z",
   "problems": [
     {
       "frontendId": "169",
@@ -24,6 +24,26 @@
           "path": "Leetcode/0169-majority-element/0169-majority-element.py",
           "sha": "711616899c63666e112178f381072907c231bc7a",
           "lastSyncedAt": "2026-11-15T14:54:03.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "problemName": "0205-isomorphic-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "folderPath": "Leetcode/0205-isomorphic-strings/",
+      "readmePath": "Leetcode/0205-isomorphic-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0205-isomorphic-strings.py",
+          "path": "Leetcode/0205-isomorphic-strings/0205-isomorphic-strings.py",
+          "sha": "42826ca686392b5ceccb8c5bf37810ae5b613f9b",
+          "lastSyncedAt": "2026-11-15T14:55:16.723Z"
         }
       ]
     },

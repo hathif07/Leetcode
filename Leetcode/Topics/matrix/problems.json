@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-15T15:11:06.749Z",
+  "updatedAt": "2026-11-15T15:12:07.378Z",
   "problems": [
     {
       "frontendId": "1582",
@@ -34,8 +34,8 @@
       "problemName": "2536-increment-submatrices-by-one",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one/",
-      "folderPath": "Leetcode/2536-increment-submatrices-by-one/",
-      "readmePath": "Leetcode/2536-increment-submatrices-by-one/README.md",
+      "folderPath": "Leetcode/Medium/2536-increment-submatrices-by-one/",
+      "readmePath": "Leetcode/Medium/2536-increment-submatrices-by-one/README.md",
       "solutions": [
         {
           "language": "C",
@@ -43,7 +43,7 @@
           "filename": "2536-increment-submatrices-by-one.c",
           "path": "Leetcode/2536-increment-submatrices-by-one/2536-increment-submatrices-by-one.c",
           "sha": "1eb4ffd5bc234e3d106e2e129f195afad95c5b1c",
-          "lastSyncedAt": "2026-11-15T15:01:24.471Z"
+          "lastSyncedAt": "2026-11-15T15:12:07.378Z"
         }
       ]
     },

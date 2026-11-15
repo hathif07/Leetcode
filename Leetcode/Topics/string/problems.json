@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:52:09.458Z",
+  "updatedAt": "2026-11-15T14:52:26.172Z",
   "problems": [
+    {
+      "frontendId": "290",
+      "title": "Word Pattern",
+      "slug": "word-pattern",
+      "problemName": "0290-word-pattern",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
+      "folderPath": "Leetcode/0290-word-pattern/",
+      "readmePath": "Leetcode/0290-word-pattern/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0290-word-pattern.py",
+          "path": "Leetcode/0290-word-pattern/0290-word-pattern.py",
+          "sha": "3354ef9ace8a552f1a6d669e7b4631574ab5d70f",
+          "lastSyncedAt": "2026-11-15T14:52:26.172Z"
+        }
+      ]
+    },
     {
       "frontendId": "392",
       "title": "Is Subsequence",

@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T14:55:00.961Z",
+  "updatedAt": "2026-11-15T14:56:06.890Z",
   "problems": [
     {
       "frontendId": "168",
@@ -104,6 +104,26 @@
           "path": "Leetcode/0263-ugly-number/0263-ugly-number.py",
           "sha": "5715b50f407341e32add1b6f7b5720a144f112ee",
           "lastSyncedAt": "2026-11-15T14:52:51.117Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "292",
+      "title": "Nim Game",
+      "slug": "nim-game",
+      "problemName": "0292-nim-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
+      "folderPath": "Leetcode/0292-nim-game/",
+      "readmePath": "Leetcode/0292-nim-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0292-nim-game.py",
+          "path": "Leetcode/0292-nim-game/0292-nim-game.py",
+          "sha": "08a0cd0917bb4290b58b6539f5c33f56903a668c",
+          "lastSyncedAt": "2026-11-15T14:56:06.890Z"
         }
       ]
     },

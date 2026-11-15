@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T15:00:27.301Z",
+  "updatedAt": "2026-11-15T15:00:51.350Z",
   "problems": [
     {
       "frontendId": "26",
@@ -224,6 +224,26 @@
           "path": "Leetcode/0696-count-binary-substrings/0696-count-binary-substrings.c",
           "sha": "d0c007f798f07818ecdb74f9cc17cc8c4f68f092",
           "lastSyncedAt": "2026-11-15T15:00:27.301Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3752",
+      "title": "Lexicographically Smallest Negated Permutation that Sums to Target",
+      "slug": "lexicographically-smallest-negated-permutation-that-sums-to-target",
+      "problemName": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-negated-permutation-that-sums-to-target/",
+      "folderPath": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/",
+      "readmePath": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
+          "path": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
+          "sha": "500e7697dde4a4a7a090bff8abf87cf45bdb3127",
+          "lastSyncedAt": "2026-11-15T15:00:51.350Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-15T14:53:05.938Z",
+  "updatedAt": "2026-11-15T15:00:51.350Z",
   "problems": [
     {
       "frontendId": "678",
@@ -24,6 +24,26 @@
           "path": "Leetcode/0678-valid-parenthesis-string/0678-valid-parenthesis-string.py",
           "sha": "85d7a54d76eb875ad25860c2f3c550cba54d7528",
           "lastSyncedAt": "2026-11-15T14:50:45.241Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3752",
+      "title": "Lexicographically Smallest Negated Permutation that Sums to Target",
+      "slug": "lexicographically-smallest-negated-permutation-that-sums-to-target",
+      "problemName": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-negated-permutation-that-sums-to-target/",
+      "folderPath": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/",
+      "readmePath": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
+          "path": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
+          "sha": "500e7697dde4a4a7a090bff8abf87cf45bdb3127",
+          "lastSyncedAt": "2026-11-15T15:00:51.350Z"
         }
       ]
     },

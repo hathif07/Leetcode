@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:55:00.961Z",
+  "updatedAt": "2026-11-15T14:55:16.723Z",
   "problems": [
     {
       "frontendId": "168",
@@ -44,6 +44,26 @@
           "path": "Leetcode/0171-excel-sheet-column-number/0171-excel-sheet-column-number.py",
           "sha": "3af46fe29af8533f2f2d61c578bdc37aff5522cc",
           "lastSyncedAt": "2026-11-15T14:55:00.961Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "205",
+      "title": "Isomorphic Strings",
+      "slug": "isomorphic-strings",
+      "problemName": "0205-isomorphic-strings",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+      "folderPath": "Leetcode/0205-isomorphic-strings/",
+      "readmePath": "Leetcode/0205-isomorphic-strings/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0205-isomorphic-strings.py",
+          "path": "Leetcode/0205-isomorphic-strings/0205-isomorphic-strings.py",
+          "sha": "42826ca686392b5ceccb8c5bf37810ae5b613f9b",
+          "lastSyncedAt": "2026-11-15T14:55:16.723Z"
         }
       ]
     },

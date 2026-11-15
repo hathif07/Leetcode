@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T15:00:51.350Z",
+  "updatedAt": "2026-11-15T15:01:24.471Z",
   "problems": [
     {
       "frontendId": "1",
@@ -384,6 +384,26 @@
           "path": "Leetcode/1967-number-of-strings-that-appear-as-substrings-in-word/1967-number-of-strings-that-appear-as-substrings-in-word.py",
           "sha": "0f4caf4cc84447044d72093357ad7854ccc16bcd",
           "lastSyncedAt": "2026-11-15T14:54:48.136Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2536",
+      "title": "Increment Submatrices by One",
+      "slug": "increment-submatrices-by-one",
+      "problemName": "2536-increment-submatrices-by-one",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/increment-submatrices-by-one/",
+      "folderPath": "Leetcode/2536-increment-submatrices-by-one/",
+      "readmePath": "Leetcode/2536-increment-submatrices-by-one/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "2536-increment-submatrices-by-one.c",
+          "path": "Leetcode/2536-increment-submatrices-by-one/2536-increment-submatrices-by-one.c",
+          "sha": "1eb4ffd5bc234e3d106e2e129f195afad95c5b1c",
+          "lastSyncedAt": "2026-11-15T15:01:24.471Z"
         }
       ]
     },

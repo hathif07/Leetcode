@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:58:07.809Z",
+  "updatedAt": "2026-11-15T14:58:38.961Z",
   "problems": [
     {
       "frontendId": "13",
@@ -24,6 +24,26 @@
           "path": "Leetcode/0013-roman-to-integer/0013-roman-to-integer.py",
           "sha": "3dc99bb46b24698f8665bf8f09bdfb86f0a4ca72",
           "lastSyncedAt": "2026-11-15T14:58:07.809Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "problemName": "0020-valid-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
+      "folderPath": "Leetcode/0020-valid-parentheses/",
+      "readmePath": "Leetcode/0020-valid-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0020-valid-parentheses.py",
+          "path": "Leetcode/0020-valid-parentheses/0020-valid-parentheses.py",
+          "sha": "4140ebf5fe4910553638ec0b74f9acb9034fcff3",
+          "lastSyncedAt": "2026-11-15T14:58:38.961Z"
         }
       ]
     },

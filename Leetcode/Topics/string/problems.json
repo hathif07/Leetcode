@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:52:39.538Z",
+  "updatedAt": "2026-11-15T14:53:32.577Z",
   "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "Leetcode/0242-valid-anagram/",
+      "readmePath": "Leetcode/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0242-valid-anagram.py",
+          "path": "Leetcode/0242-valid-anagram/0242-valid-anagram.py",
+          "sha": "2803f7b97dfb894785910076ac3ae71d2ff43281",
+          "lastSyncedAt": "2026-11-15T14:53:32.577Z"
+        }
+      ]
+    },
     {
       "frontendId": "290",
       "title": "Word Pattern",

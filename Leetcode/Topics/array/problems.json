@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T15:12:13.736Z",
+  "updatedAt": "2026-11-15T15:12:26.955Z",
   "problems": [
     {
       "frontendId": "1",
@@ -474,8 +474,8 @@
       "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
-      "folderPath": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/",
-      "readmePath": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "folderPath": "Leetcode/Easy/3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "Leetcode/Easy/3736-minimum-moves-to-equal-array-elements-iii/README.md",
       "solutions": [
         {
           "language": "C",
@@ -483,7 +483,7 @@
           "filename": "3736-minimum-moves-to-equal-array-elements-iii.c",
           "path": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.c",
           "sha": "1bd8e827c4f68a8057ca471bdcc763243096af58",
-          "lastSyncedAt": "2026-11-15T15:01:52.659Z"
+          "lastSyncedAt": "2026-11-15T15:12:26.955Z"
         }
       ]
     },

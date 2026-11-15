@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T14:50:45.241Z",
+  "updatedAt": "2026-11-15T14:51:41.718Z",
   "problems": [
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "Leetcode/0338-counting-bits/",
+      "readmePath": "Leetcode/0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0338-counting-bits.py",
+          "path": "Leetcode/0338-counting-bits/0338-counting-bits.py",
+          "sha": "4e480b2bdd0d03faa614942744dbc1d619156a86",
+          "lastSyncedAt": "2026-11-15T14:51:41.718Z"
+        }
+      ]
+    },
     {
       "frontendId": "678",
       "title": "Valid Parenthesis String",

@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:51:28.902Z",
+  "updatedAt": "2026-11-15T14:52:09.458Z",
   "problems": [
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "Leetcode/0392-is-subsequence/",
+      "readmePath": "Leetcode/0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0392-is-subsequence.java",
+          "path": "Leetcode/0392-is-subsequence/0392-is-subsequence.java",
+          "sha": "12b2b43557b3aefaeb99c0e5924b0eabb6f1ad27",
+          "lastSyncedAt": "2026-11-15T14:52:09.458Z"
+        }
+      ]
+    },
     {
       "frontendId": "500",
       "title": "Keyboard Row",

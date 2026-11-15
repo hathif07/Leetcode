@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:59:13.734Z",
+  "updatedAt": "2026-11-15T14:59:46.488Z",
   "problems": [
     {
       "frontendId": "13",
@@ -424,6 +424,26 @@
           "path": "Leetcode/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.py",
           "sha": "d634c263022ea38deee1ad8368485ced8c883c54",
           "lastSyncedAt": "2026-11-15T14:51:28.902Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1758",
+      "title": "Minimum Changes To Make Alternating Binary String",
+      "slug": "minimum-changes-to-make-alternating-binary-string",
+      "problemName": "1758-minimum-changes-to-make-alternating-binary-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/",
+      "folderPath": "Leetcode/1758-minimum-changes-to-make-alternating-binary-string/",
+      "readmePath": "Leetcode/1758-minimum-changes-to-make-alternating-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1758-minimum-changes-to-make-alternating-binary-string.py",
+          "path": "Leetcode/1758-minimum-changes-to-make-alternating-binary-string/1758-minimum-changes-to-make-alternating-binary-string.py",
+          "sha": "611973e308ea489d14ea04354858b2cdb6ff909b",
+          "lastSyncedAt": "2026-11-15T14:59:46.488Z"
         }
       ]
     },

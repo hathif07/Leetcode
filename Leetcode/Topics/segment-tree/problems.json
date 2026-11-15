@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "segment-tree",
+    "name": "Segment Tree",
+    "tagId": "29"
+  },
+  "updatedAt": "2026-11-15T15:01:33.245Z",
+  "problems": [
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "Leetcode/3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "Leetcode/3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3737-count-subarrays-with-majority-element-i.c",
+          "path": "Leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.c",
+          "sha": "90b1846d8f1b98165986c5794d0d67923cc3b682",
+          "lastSyncedAt": "2026-11-15T15:01:33.245Z"
+        }
+      ]
+    }
+  ]
+}

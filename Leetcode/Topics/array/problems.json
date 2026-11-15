@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T14:59:28.968Z",
+  "updatedAt": "2026-11-15T14:59:51.888Z",
   "problems": [
     {
       "frontendId": "14",
@@ -324,6 +324,26 @@
           "path": "Leetcode/0500-keyboard-row/0500-keyboard-row.py",
           "sha": "9f5ad35d8797b3f4072dcda02f75c71d2405cfc8",
           "lastSyncedAt": "2026-11-15T14:51:06.338Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1582",
+      "title": "Special Positions in a Binary Matrix",
+      "slug": "special-positions-in-a-binary-matrix",
+      "problemName": "1582-special-positions-in-a-binary-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/",
+      "folderPath": "Leetcode/1582-special-positions-in-a-binary-matrix/",
+      "readmePath": "Leetcode/1582-special-positions-in-a-binary-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1582-special-positions-in-a-binary-matrix.py",
+          "path": "Leetcode/1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.py",
+          "sha": "cb8c2ddbd7ac3045139a246f6a3ea9c3b06d6864",
+          "lastSyncedAt": "2026-11-15T14:59:51.888Z"
         }
       ]
     },

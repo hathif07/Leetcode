@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-15T15:07:09.089Z",
+  "updatedAt": "2026-11-15T15:07:22.617Z",
   "problems": [
     {
       "frontendId": "21",
@@ -23,7 +23,7 @@
           "filename": "0021-merge-two-sorted-lists.py",
           "path": "Leetcode/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
           "sha": "2ad439473a8ee1c4d650144c7aab8ff914c49608",
-          "lastSyncedAt": "2026-11-15T14:53:50.110Z"
+          "lastSyncedAt": "2026-11-15T15:07:22.617Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T14:53:16.787Z",
+  "updatedAt": "2026-11-15T14:55:23.322Z",
   "problems": [
     {
       "frontendId": "231",
@@ -64,6 +64,26 @@
           "path": "Leetcode/0461-hamming-distance/0461-hamming-distance.py",
           "sha": "39d027cd7f0cfb57e920c1482f26045e23de6adc",
           "lastSyncedAt": "2026-11-15T14:51:16.321Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3954",
+      "title": "Sum of Compatible Numbers in Range I",
+      "slug": "sum-of-compatible-numbers-in-range-i",
+      "problemName": "3954-sum-of-compatible-numbers-in-range-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
+      "folderPath": "Leetcode/3954-sum-of-compatible-numbers-in-range-i/",
+      "readmePath": "Leetcode/3954-sum-of-compatible-numbers-in-range-i/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3954-sum-of-compatible-numbers-in-range-i.py",
+          "path": "Leetcode/3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.py",
+          "sha": "81d9763ccca30c757cec6e9dc659101075cad80b",
+          "lastSyncedAt": "2026-11-15T14:55:23.322Z"
         }
       ]
     }

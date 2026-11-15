@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-15T14:54:03.217Z",
+  "updatedAt": "2026-11-15T15:01:33.245Z",
   "problems": [
     {
       "frontendId": "169",
@@ -24,6 +24,26 @@
           "path": "Leetcode/0169-majority-element/0169-majority-element.py",
           "sha": "711616899c63666e112178f381072907c231bc7a",
           "lastSyncedAt": "2026-11-15T14:54:03.217Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3737",
+      "title": "Count Subarrays With Majority Element I",
+      "slug": "count-subarrays-with-majority-element-i",
+      "problemName": "3737-count-subarrays-with-majority-element-i",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-with-majority-element-i/",
+      "folderPath": "Leetcode/3737-count-subarrays-with-majority-element-i/",
+      "readmePath": "Leetcode/3737-count-subarrays-with-majority-element-i/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3737-count-subarrays-with-majority-element-i.c",
+          "path": "Leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.c",
+          "sha": "90b1846d8f1b98165986c5794d0d67923cc3b682",
+          "lastSyncedAt": "2026-11-15T15:01:33.245Z"
         }
       ]
     },

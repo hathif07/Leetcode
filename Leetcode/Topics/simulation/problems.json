@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-15T14:56:40.253Z",
+  "updatedAt": "2026-11-15T14:57:20.030Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "Leetcode/0067-add-binary/",
+      "readmePath": "Leetcode/0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0067-add-binary.py",
+          "path": "Leetcode/0067-add-binary/0067-add-binary.py",
+          "sha": "f2ed86320d3f152e5198d227067d906829d9abc8",
+          "lastSyncedAt": "2026-11-15T14:57:20.030Z"
+        }
+      ]
+    },
     {
       "frontendId": "258",
       "title": "Add Digits",

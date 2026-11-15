@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T14:55:23.322Z",
+  "updatedAt": "2026-11-15T14:55:47.955Z",
   "problems": [
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "Leetcode/0191-number-of-1-bits/",
+      "readmePath": "Leetcode/0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0191-number-of-1-bits.java",
+          "path": "Leetcode/0191-number-of-1-bits/0191-number-of-1-bits.java",
+          "sha": "de40cc42aab9259afd329a24a0bc51edb11676e1",
+          "lastSyncedAt": "2026-11-15T14:55:47.955Z"
+        }
+      ]
+    },
     {
       "frontendId": "231",
       "title": "Power of Two",

@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T14:52:19.396Z",
+  "updatedAt": "2026-11-15T14:52:51.117Z",
   "problems": [
+    {
+      "frontendId": "263",
+      "title": "Ugly Number",
+      "slug": "ugly-number",
+      "problemName": "0263-ugly-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+      "folderPath": "Leetcode/0263-ugly-number/",
+      "readmePath": "Leetcode/0263-ugly-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0263-ugly-number.py",
+          "path": "Leetcode/0263-ugly-number/0263-ugly-number.py",
+          "sha": "5715b50f407341e32add1b6f7b5720a144f112ee",
+          "lastSyncedAt": "2026-11-15T14:52:51.117Z"
+        }
+      ]
+    },
     {
       "frontendId": "836",
       "title": "Rectangle Overlap",

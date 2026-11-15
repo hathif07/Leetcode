@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T14:59:58.637Z",
+  "updatedAt": "2026-11-15T15:00:51.350Z",
   "problems": [
     {
       "frontendId": "1",
@@ -444,6 +444,26 @@
           "path": "Leetcode/3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
           "sha": "3ef31c227848731831ee42f47184de7027b4b689",
           "lastSyncedAt": "2026-11-15T14:52:45.430Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3752",
+      "title": "Lexicographically Smallest Negated Permutation that Sums to Target",
+      "slug": "lexicographically-smallest-negated-permutation-that-sums-to-target",
+      "problemName": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-negated-permutation-that-sums-to-target/",
+      "folderPath": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/",
+      "readmePath": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
+          "path": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
+          "sha": "500e7697dde4a4a7a090bff8abf87cf45bdb3127",
+          "lastSyncedAt": "2026-11-15T15:00:51.350Z"
         }
       ]
     },

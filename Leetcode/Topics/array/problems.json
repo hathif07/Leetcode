@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T15:01:33.245Z",
+  "updatedAt": "2026-11-15T15:01:52.659Z",
   "problems": [
     {
       "frontendId": "1",
@@ -464,6 +464,26 @@
           "path": "Leetcode/3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
           "sha": "3ef31c227848731831ee42f47184de7027b4b689",
           "lastSyncedAt": "2026-11-15T14:52:45.430Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3736",
+      "title": "Minimum Moves to Equal Array Elements III",
+      "slug": "minimum-moves-to-equal-array-elements-iii",
+      "problemName": "3736-minimum-moves-to-equal-array-elements-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/",
+      "folderPath": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/",
+      "readmePath": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/README.md",
+      "solutions": [
+        {
+          "language": "C",
+          "extension": ".c",
+          "filename": "3736-minimum-moves-to-equal-array-elements-iii.c",
+          "path": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.c",
+          "sha": "1bd8e827c4f68a8057ca471bdcc763243096af58",
+          "lastSyncedAt": "2026-11-15T15:01:52.659Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T14:59:46.488Z",
+  "updatedAt": "2026-11-15T15:00:06.989Z",
   "problems": [
     {
       "frontendId": "13",
@@ -404,6 +404,26 @@
           "path": "Leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/1111-maximum-nesting-depth-of-two-valid-parentheses-strings.py",
           "sha": "f985e8abc48832debe81301e10e3ae7a72d3e0b7",
           "lastSyncedAt": "2026-11-15T14:50:58.945Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1404",
+      "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+      "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "problemName": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "folderPath": "Leetcode/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "readmePath": "Leetcode/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py",
+          "path": "Leetcode/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py",
+          "sha": "5ba4c1bde94c82eb7821d1a786da5c6e9dc2a40b",
+          "lastSyncedAt": "2026-11-15T15:00:06.989Z"
         }
       ]
     },

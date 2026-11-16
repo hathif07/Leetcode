@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-16T06:18:49.708Z",
+  "updatedAt": "2026-11-16T06:19:15.628Z",
   "problems": [
     {
       "frontendId": "67",
@@ -263,7 +263,7 @@
           "filename": "3750-minimum-number-of-flips-to-reverse-binary-string.py",
           "path": "Leetcode/3750-minimum-number-of-flips-to-reverse-binary-string/3750-minimum-number-of-flips-to-reverse-binary-string.py",
           "sha": "63c1ec2e38ef919adca69436b002ac47dc86e370",
-          "lastSyncedAt": "2026-11-16T06:08:21.284Z"
+          "lastSyncedAt": "2026-11-16T06:19:15.628Z"
         }
       ]
     },

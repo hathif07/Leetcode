@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T05:39:39.716Z",
+  "updatedAt": "2026-11-16T05:39:42.244Z",
   "problems": [
     {
       "frontendId": "1",
@@ -154,8 +154,8 @@
       "problemName": "0118-pascals-triangle",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
-      "folderPath": "Leetcode/0118-pascals-triangle/",
-      "readmePath": "Leetcode/0118-pascals-triangle/README.md",
+      "folderPath": "Leetcode/Easy/0118-pascals-triangle/",
+      "readmePath": "Leetcode/Easy/0118-pascals-triangle/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -163,7 +163,7 @@
           "filename": "0118-pascals-triangle.py",
           "path": "Leetcode/0118-pascals-triangle/0118-pascals-triangle.py",
           "sha": "4fd05d3964f8142a4be6224067feb4c7c306185b",
-          "lastSyncedAt": "2026-11-15T15:07:43.424Z"
+          "lastSyncedAt": "2026-11-16T05:39:42.244Z"
         }
       ]
     },

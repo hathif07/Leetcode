@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-16T05:38:46.550Z",
+  "updatedAt": "2026-11-16T05:43:42.714Z",
   "problems": [
     {
       "frontendId": "1022",
@@ -14,8 +14,8 @@
       "problemName": "1022-sum-of-root-to-leaf-binary-numbers",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/",
-      "folderPath": "Leetcode/1022-sum-of-root-to-leaf-binary-numbers/",
-      "readmePath": "Leetcode/1022-sum-of-root-to-leaf-binary-numbers/README.md",
+      "folderPath": "Leetcode/Easy/1022-sum-of-root-to-leaf-binary-numbers/",
+      "readmePath": "Leetcode/Easy/1022-sum-of-root-to-leaf-binary-numbers/README.md",
       "solutions": [
         {
           "language": "C",
@@ -23,7 +23,7 @@
           "filename": "1022-sum-of-root-to-leaf-binary-numbers.c",
           "path": "Leetcode/1022-sum-of-root-to-leaf-binary-numbers/1022-sum-of-root-to-leaf-binary-numbers.c",
           "sha": "aa9422ccb1b08951b602e5f82882b41f4c341320",
-          "lastSyncedAt": "2026-11-15T15:11:20.704Z"
+          "lastSyncedAt": "2026-11-16T05:43:42.714Z"
         }
       ]
     },

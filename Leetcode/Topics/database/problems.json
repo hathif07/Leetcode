@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T15:09:03.500Z",
+  "updatedAt": "2026-11-16T05:39:25.101Z",
   "problems": [
     {
       "frontendId": "175",
@@ -34,8 +34,8 @@
       "problemName": "0181-employees-earning-more-than-their-managers",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
-      "folderPath": "Leetcode/0181-employees-earning-more-than-their-managers/",
-      "readmePath": "Leetcode/0181-employees-earning-more-than-their-managers/README.md",
+      "folderPath": "Leetcode/Easy/0181-employees-earning-more-than-their-managers/",
+      "readmePath": "Leetcode/Easy/0181-employees-earning-more-than-their-managers/README.md",
       "solutions": [
         {
           "language": "MySQL",
@@ -43,7 +43,7 @@
           "filename": "0181-employees-earning-more-than-their-managers.sql",
           "path": "Leetcode/0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
           "sha": "902b83928a3dd2b01999f2c787f67cf76b17df6e",
-          "lastSyncedAt": "2026-11-15T15:07:26.232Z"
+          "lastSyncedAt": "2026-11-16T05:39:25.101Z"
         }
       ]
     }

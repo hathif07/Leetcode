@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-16T06:40:01.441Z",
+  "updatedAt": "2026-11-16T06:40:17.426Z",
   "problems": [
     {
       "frontendId": "67",
@@ -83,7 +83,7 @@
           "filename": "0191-number-of-1-bits.java",
           "path": "Leetcode/0191-number-of-1-bits/0191-number-of-1-bits.java",
           "sha": "de40cc42aab9259afd329a24a0bc51edb11676e1",
-          "lastSyncedAt": "2026-11-16T06:25:47.718Z"
+          "lastSyncedAt": "2026-11-16T06:40:17.426Z"
         }
       ]
     },

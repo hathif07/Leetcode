@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T06:43:01.127Z",
+  "updatedAt": "2026-11-16T06:43:35.964Z",
   "problems": [
     {
       "frontendId": "1",
@@ -523,7 +523,7 @@
           "filename": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
           "path": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
           "sha": "500e7697dde4a4a7a090bff8abf87cf45bdb3127",
-          "lastSyncedAt": "2026-11-16T06:29:04.020Z"
+          "lastSyncedAt": "2026-11-16T06:43:35.964Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-16T05:43:09.024Z",
+  "updatedAt": "2026-11-16T05:43:12.402Z",
   "problems": [
     {
       "frontendId": "9",
@@ -374,8 +374,8 @@
       "problemName": "2946-matrix-similarity-after-cyclic-shifts",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/",
-      "folderPath": "Leetcode/2946-matrix-similarity-after-cyclic-shifts/",
-      "readmePath": "Leetcode/2946-matrix-similarity-after-cyclic-shifts/README.md",
+      "folderPath": "Leetcode/Easy/2946-matrix-similarity-after-cyclic-shifts/",
+      "readmePath": "Leetcode/Easy/2946-matrix-similarity-after-cyclic-shifts/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -383,7 +383,7 @@
           "filename": "2946-matrix-similarity-after-cyclic-shifts.py",
           "path": "Leetcode/2946-matrix-similarity-after-cyclic-shifts/2946-matrix-similarity-after-cyclic-shifts.py",
           "sha": "c2cef57fc1a1092860d2233aa36a30df5fb2b516",
-          "lastSyncedAt": "2026-11-15T15:10:54.917Z"
+          "lastSyncedAt": "2026-11-16T05:43:12.402Z"
         }
       ]
     },

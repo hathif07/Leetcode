@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T06:25:20.791Z",
+  "updatedAt": "2026-11-16T06:25:37.994Z",
   "problems": [
     {
       "frontendId": "1",
@@ -183,7 +183,7 @@
           "filename": "0119-pascals-triangle-ii.py",
           "path": "Leetcode/0119-pascals-triangle-ii/0119-pascals-triangle-ii.py",
           "sha": "c106850f264fffde348607ead11977f035c44fd1",
-          "lastSyncedAt": "2026-11-16T06:15:32.884Z"
+          "lastSyncedAt": "2026-11-16T06:25:37.994Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-16T05:43:12.402Z",
+  "updatedAt": "2026-11-16T05:44:05.336Z",
   "problems": [
     {
       "frontendId": "9",
@@ -474,8 +474,8 @@
       "problemName": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/lexicographically-smallest-negated-permutation-that-sums-to-target/",
-      "folderPath": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/",
-      "readmePath": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/README.md",
+      "folderPath": "Leetcode/Medium/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/",
+      "readmePath": "Leetcode/Medium/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/README.md",
       "solutions": [
         {
           "language": "Python",
@@ -483,7 +483,7 @@
           "filename": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
           "path": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
           "sha": "500e7697dde4a4a7a090bff8abf87cf45bdb3127",
-          "lastSyncedAt": "2026-11-15T15:11:43.170Z"
+          "lastSyncedAt": "2026-11-16T05:44:05.336Z"
         }
       ]
     },

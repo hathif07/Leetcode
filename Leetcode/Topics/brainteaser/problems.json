@@ -5,7 +5,7 @@
     "name": "Brainteaser",
     "tagId": "32"
   },
-  "updatedAt": "2026-11-16T05:52:50.868Z",
+  "updatedAt": "2026-11-16T06:04:53.206Z",
   "problems": [
     {
       "frontendId": "292",
@@ -23,7 +23,7 @@
           "filename": "0292-nim-game.py",
           "path": "Leetcode/0292-nim-game/0292-nim-game.py",
           "sha": "08a0cd0917bb4290b58b6539f5c33f56903a668c",
-          "lastSyncedAt": "2026-11-16T05:52:50.868Z"
+          "lastSyncedAt": "2026-11-16T06:04:53.206Z"
         }
       ]
     }

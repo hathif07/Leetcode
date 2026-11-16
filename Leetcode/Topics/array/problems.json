@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T06:18:09.675Z",
+  "updatedAt": "2026-11-16T06:18:22.682Z",
   "problems": [
     {
       "frontendId": "1",
@@ -363,7 +363,7 @@
           "filename": "1582-special-positions-in-a-binary-matrix.py",
           "path": "Leetcode/1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.py",
           "sha": "cb8c2ddbd7ac3045139a246f6a3ea9c3b06d6864",
-          "lastSyncedAt": "2026-11-16T06:07:25.535Z"
+          "lastSyncedAt": "2026-11-16T06:18:22.682Z"
         }
       ]
     },

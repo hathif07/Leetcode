@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T05:43:50.399Z",
+  "updatedAt": "2026-11-16T05:43:57.052Z",
   "problems": [
     {
       "frontendId": "13",
@@ -394,8 +394,8 @@
       "problemName": "0756-pyramid-transition-matrix",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/pyramid-transition-matrix/",
-      "folderPath": "Leetcode/0756-pyramid-transition-matrix/",
-      "readmePath": "Leetcode/0756-pyramid-transition-matrix/README.md",
+      "folderPath": "Leetcode/Medium/0756-pyramid-transition-matrix/",
+      "readmePath": "Leetcode/Medium/0756-pyramid-transition-matrix/README.md",
       "solutions": [
         {
           "language": "C",
@@ -403,7 +403,7 @@
           "filename": "0756-pyramid-transition-matrix.c",
           "path": "Leetcode/0756-pyramid-transition-matrix/0756-pyramid-transition-matrix.c",
           "sha": "49c2c463bebbeb420a5b30b5d3bb0d18c441fffc",
-          "lastSyncedAt": "2026-11-15T15:11:35.018Z"
+          "lastSyncedAt": "2026-11-16T05:43:57.052Z"
         }
       ]
     },

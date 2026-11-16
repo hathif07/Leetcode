@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-16T05:40:48.034Z",
+  "updatedAt": "2026-11-16T05:44:37.733Z",
   "problems": [
     {
       "frontendId": "169",
@@ -83,7 +83,7 @@
           "filename": "3737-count-subarrays-with-majority-element-i.c",
           "path": "Leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.c",
           "sha": "90b1846d8f1b98165986c5794d0d67923cc3b682",
-          "lastSyncedAt": "2026-11-15T15:12:13.736Z"
+          "lastSyncedAt": "2026-11-16T05:44:37.733Z"
         }
       ]
     }

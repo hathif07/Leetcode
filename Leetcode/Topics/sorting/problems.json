@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-16T06:18:58.174Z",
+  "updatedAt": "2026-11-16T06:24:03.511Z",
   "problems": [
     {
       "frontendId": "88",
@@ -143,7 +143,7 @@
           "filename": "4014-minimum-total-price-after-applying-discounts.py",
           "path": "Leetcode/4014-minimum-total-price-after-applying-discounts/4014-minimum-total-price-after-applying-discounts.py",
           "sha": "6533320de0f2808df5d3a2eaaa6566a14d5e4c88",
-          "lastSyncedAt": "2026-11-16T06:13:52.447Z"
+          "lastSyncedAt": "2026-11-16T06:24:03.511Z"
         }
       ]
     }

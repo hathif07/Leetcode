@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-16T06:26:28.874Z",
+  "updatedAt": "2026-11-16T06:26:36.972Z",
   "problems": [
     {
       "frontendId": "26",
@@ -83,7 +83,7 @@
           "filename": "0088-merge-sorted-array.py",
           "path": "Leetcode/0088-merge-sorted-array/0088-merge-sorted-array.py",
           "sha": "8c5ef45c9b3fb455d62a78903fba545c09563c4c",
-          "lastSyncedAt": "2026-11-16T06:16:30.041Z"
+          "lastSyncedAt": "2026-11-16T06:26:36.972Z"
         }
       ]
     },

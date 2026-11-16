@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T15:11:59.395Z",
+  "updatedAt": "2026-11-16T05:37:44.374Z",
   "problems": [
     {
       "frontendId": "67",
@@ -154,8 +154,8 @@
       "problemName": "0461-hamming-distance",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/hamming-distance/",
-      "folderPath": "Leetcode/0461-hamming-distance/",
-      "readmePath": "Leetcode/0461-hamming-distance/README.md",
+      "folderPath": "Leetcode/Easy/0461-hamming-distance/",
+      "readmePath": "Leetcode/Easy/0461-hamming-distance/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -163,7 +163,7 @@
           "filename": "0461-hamming-distance.py",
           "path": "Leetcode/0461-hamming-distance/0461-hamming-distance.py",
           "sha": "39d027cd7f0cfb57e920c1482f26045e23de6adc",
-          "lastSyncedAt": "2026-11-15T15:05:51.451Z"
+          "lastSyncedAt": "2026-11-16T05:37:44.374Z"
         }
       ]
     },

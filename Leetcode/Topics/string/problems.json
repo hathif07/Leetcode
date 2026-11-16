@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T05:43:24.793Z",
+  "updatedAt": "2026-11-16T05:43:37.289Z",
   "problems": [
     {
       "frontendId": "13",
@@ -454,8 +454,8 @@
       "problemName": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
-      "folderPath": "Leetcode/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
-      "readmePath": "Leetcode/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/README.md",
+      "folderPath": "Leetcode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+      "readmePath": "Leetcode/Medium/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -463,7 +463,7 @@
           "filename": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py",
           "path": "Leetcode/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py",
           "sha": "5ba4c1bde94c82eb7821d1a786da5c6e9dc2a40b",
-          "lastSyncedAt": "2026-11-15T15:11:15.066Z"
+          "lastSyncedAt": "2026-11-16T05:43:37.289Z"
         }
       ]
     },

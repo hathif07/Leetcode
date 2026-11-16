@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-16T05:40:51.654Z",
+  "updatedAt": "2026-11-16T05:41:13.722Z",
   "problems": [
     {
       "frontendId": "9",
@@ -314,8 +314,8 @@
       "problemName": "0412-fizz-buzz",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
-      "folderPath": "Leetcode/0412-fizz-buzz/",
-      "readmePath": "Leetcode/0412-fizz-buzz/README.md",
+      "folderPath": "Leetcode/Easy/0412-fizz-buzz/",
+      "readmePath": "Leetcode/Easy/0412-fizz-buzz/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -323,7 +323,7 @@
           "filename": "0412-fizz-buzz.py",
           "path": "Leetcode/0412-fizz-buzz/0412-fizz-buzz.py",
           "sha": "d7131e3b3649d69a829207108f07b84b7a28e5f3",
-          "lastSyncedAt": "2026-11-15T15:09:06.218Z"
+          "lastSyncedAt": "2026-11-16T05:41:13.722Z"
         }
       ]
     },

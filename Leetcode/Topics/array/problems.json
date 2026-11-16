@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T05:38:12.375Z",
+  "updatedAt": "2026-11-16T05:38:23.357Z",
   "problems": [
     {
       "frontendId": "1",
@@ -534,8 +534,8 @@
       "problemName": "3875-construct-uniform-parity-array-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
-      "folderPath": "Leetcode/3875-construct-uniform-parity-array-i/",
-      "readmePath": "Leetcode/3875-construct-uniform-parity-array-i/README.md",
+      "folderPath": "Leetcode/Easy/3875-construct-uniform-parity-array-i/",
+      "readmePath": "Leetcode/Easy/3875-construct-uniform-parity-array-i/README.md",
       "solutions": [
         {
           "language": "Python",
@@ -543,7 +543,7 @@
           "filename": "3875-construct-uniform-parity-array-i.py",
           "path": "Leetcode/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
           "sha": "1c06d04b96982d7e93bc07dbadeec1b8ebad02cf",
-          "lastSyncedAt": "2026-11-15T15:06:26.734Z"
+          "lastSyncedAt": "2026-11-16T05:38:23.357Z"
         }
       ]
     },

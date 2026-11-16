@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T05:39:58.865Z",
+  "updatedAt": "2026-11-16T05:40:12.279Z",
   "problems": [
     {
       "frontendId": "1",
@@ -254,8 +254,8 @@
       "problemName": "0217-contains-duplicate",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
-      "folderPath": "Leetcode/0217-contains-duplicate/",
-      "readmePath": "Leetcode/0217-contains-duplicate/README.md",
+      "folderPath": "Leetcode/Easy/0217-contains-duplicate/",
+      "readmePath": "Leetcode/Easy/0217-contains-duplicate/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -263,7 +263,7 @@
           "filename": "0217-contains-duplicate.py",
           "path": "Leetcode/0217-contains-duplicate/0217-contains-duplicate.py",
           "sha": "58bf0115f3bf02c1b0b16abccda22455407897d9",
-          "lastSyncedAt": "2026-11-15T15:08:10.422Z"
+          "lastSyncedAt": "2026-11-16T05:40:12.279Z"
         }
       ]
     },

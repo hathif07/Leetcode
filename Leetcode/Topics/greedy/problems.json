@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-16T06:02:55.451Z",
+  "updatedAt": "2026-11-16T06:08:02.134Z",
   "problems": [
     {
       "frontendId": "678",
@@ -43,7 +43,7 @@
           "filename": "3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
           "path": "Leetcode/3752-lexicographically-smallest-negated-permutation-that-sums-to-target/3752-lexicographically-smallest-negated-permutation-that-sums-to-target.py",
           "sha": "500e7697dde4a4a7a090bff8abf87cf45bdb3127",
-          "lastSyncedAt": "2026-11-16T05:56:03.587Z"
+          "lastSyncedAt": "2026-11-16T06:08:02.134Z"
         }
       ]
     },

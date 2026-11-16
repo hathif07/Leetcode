@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T05:38:23.357Z",
+  "updatedAt": "2026-11-16T05:38:38.700Z",
   "problems": [
     {
       "frontendId": "1",
@@ -454,8 +454,8 @@
       "problemName": "3718-smallest-missing-multiple-of-k",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-missing-multiple-of-k/",
-      "folderPath": "Leetcode/3718-smallest-missing-multiple-of-k/",
-      "readmePath": "Leetcode/3718-smallest-missing-multiple-of-k/README.md",
+      "folderPath": "Leetcode/Easy/3718-smallest-missing-multiple-of-k/",
+      "readmePath": "Leetcode/Easy/3718-smallest-missing-multiple-of-k/README.md",
       "solutions": [
         {
           "language": "Python",
@@ -463,7 +463,7 @@
           "filename": "3718-smallest-missing-multiple-of-k.py",
           "path": "Leetcode/3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.py",
           "sha": "3ef31c227848731831ee42f47184de7027b4b689",
-          "lastSyncedAt": "2026-11-15T15:06:42.730Z"
+          "lastSyncedAt": "2026-11-16T05:38:38.700Z"
         }
       ]
     },

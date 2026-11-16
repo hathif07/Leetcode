@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T06:23:02.298Z",
+  "updatedAt": "2026-11-16T06:23:27.386Z",
   "problems": [
     {
       "frontendId": "13",
@@ -303,7 +303,7 @@
           "filename": "0392-is-subsequence.java",
           "path": "Leetcode/0392-is-subsequence/0392-is-subsequence.java",
           "sha": "12b2b43557b3aefaeb99c0e5924b0eabb6f1ad27",
-          "lastSyncedAt": "2026-11-16T06:13:13.248Z"
+          "lastSyncedAt": "2026-11-16T06:23:27.386Z"
         }
       ]
     },

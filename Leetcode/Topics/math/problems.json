@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-16T06:29:22.143Z",
+  "updatedAt": "2026-11-16T06:29:53.255Z",
   "problems": [
     {
       "frontendId": "9",
@@ -423,7 +423,7 @@
           "filename": "3736-minimum-moves-to-equal-array-elements-iii.c",
           "path": "Leetcode/3736-minimum-moves-to-equal-array-elements-iii/3736-minimum-moves-to-equal-array-elements-iii.c",
           "sha": "1bd8e827c4f68a8057ca471bdcc763243096af58",
-          "lastSyncedAt": "2026-11-16T06:19:44.717Z"
+          "lastSyncedAt": "2026-11-16T06:29:53.255Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-16T06:08:28.583Z",
+  "updatedAt": "2026-11-16T06:08:35.603Z",
   "problems": [
     {
       "frontendId": "2536",
@@ -43,7 +43,7 @@
           "filename": "3737-count-subarrays-with-majority-element-i.c",
           "path": "Leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.c",
           "sha": "90b1846d8f1b98165986c5794d0d67923cc3b682",
-          "lastSyncedAt": "2026-11-16T05:56:36.936Z"
+          "lastSyncedAt": "2026-11-16T06:08:35.603Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-16T06:24:11.044Z",
+  "updatedAt": "2026-11-16T06:24:31.947Z",
   "problems": [
     {
       "frontendId": "21",
@@ -23,7 +23,7 @@
           "filename": "0021-merge-two-sorted-lists.py",
           "path": "Leetcode/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
           "sha": "2ad439473a8ee1c4d650144c7aab8ff914c49608",
-          "lastSyncedAt": "2026-11-16T06:14:23.156Z"
+          "lastSyncedAt": "2026-11-16T06:24:31.947Z"
         }
       ]
     },

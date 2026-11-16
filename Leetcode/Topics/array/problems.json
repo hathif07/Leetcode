@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T05:39:28.261Z",
+  "updatedAt": "2026-11-16T05:39:39.716Z",
   "problems": [
     {
       "frontendId": "1",
@@ -274,8 +274,8 @@
       "problemName": "0228-summary-ranges",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
-      "folderPath": "Leetcode/0228-summary-ranges/",
-      "readmePath": "Leetcode/0228-summary-ranges/README.md",
+      "folderPath": "Leetcode/Easy/0228-summary-ranges/",
+      "readmePath": "Leetcode/Easy/0228-summary-ranges/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -283,7 +283,7 @@
           "filename": "0228-summary-ranges.py",
           "path": "Leetcode/0228-summary-ranges/0228-summary-ranges.py",
           "sha": "c8fa6454926e7f886f68976820da311d982c3221",
-          "lastSyncedAt": "2026-11-15T15:07:41.061Z"
+          "lastSyncedAt": "2026-11-16T05:39:39.716Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T05:40:19.136Z",
+  "updatedAt": "2026-11-16T05:41:20.583Z",
   "problems": [
     {
       "frontendId": "1",
@@ -74,8 +74,8 @@
       "problemName": "0202-happy-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
-      "folderPath": "Leetcode/0202-happy-number/",
-      "readmePath": "Leetcode/0202-happy-number/README.md",
+      "folderPath": "Leetcode/Easy/0202-happy-number/",
+      "readmePath": "Leetcode/Easy/0202-happy-number/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -83,7 +83,7 @@
           "filename": "0202-happy-number.py",
           "path": "Leetcode/0202-happy-number/0202-happy-number.py",
           "sha": "e69c3cf3b7dc15860eea5bcf520d336903863994",
-          "lastSyncedAt": "2026-11-15T15:09:12.010Z"
+          "lastSyncedAt": "2026-11-16T05:41:20.583Z"
         }
       ]
     },

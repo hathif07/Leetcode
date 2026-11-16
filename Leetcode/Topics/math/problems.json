@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T15:12:30.402Z",
+  "updatedAt": "2026-11-16T05:37:14.501Z",
   "problems": [
     {
       "frontendId": "9",
@@ -354,8 +354,8 @@
       "problemName": "2409-count-days-spent-together",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
-      "folderPath": "Leetcode/2409-count-days-spent-together/",
-      "readmePath": "Leetcode/2409-count-days-spent-together/README.md",
+      "folderPath": "Leetcode/Easy/2409-count-days-spent-together/",
+      "readmePath": "Leetcode/Easy/2409-count-days-spent-together/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -363,7 +363,7 @@
           "filename": "2409-count-days-spent-together.py",
           "path": "Leetcode/2409-count-days-spent-together/2409-count-days-spent-together.py",
           "sha": "ef6adf171f486f173f7e763185f8610fd6136f78",
-          "lastSyncedAt": "2026-11-15T15:05:21.868Z"
+          "lastSyncedAt": "2026-11-16T05:37:14.501Z"
         }
       ]
     },

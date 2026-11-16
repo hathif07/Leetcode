@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-16T05:40:03.985Z",
+  "updatedAt": "2026-11-16T05:40:08.489Z",
   "problems": [
     {
       "frontendId": "9",
@@ -154,8 +154,8 @@
       "problemName": "0171-excel-sheet-column-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
-      "folderPath": "Leetcode/0171-excel-sheet-column-number/",
-      "readmePath": "Leetcode/0171-excel-sheet-column-number/README.md",
+      "folderPath": "Leetcode/Easy/0171-excel-sheet-column-number/",
+      "readmePath": "Leetcode/Easy/0171-excel-sheet-column-number/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -163,7 +163,7 @@
           "filename": "0171-excel-sheet-column-number.py",
           "path": "Leetcode/0171-excel-sheet-column-number/0171-excel-sheet-column-number.py",
           "sha": "3af46fe29af8533f2f2d61c578bdc37aff5522cc",
-          "lastSyncedAt": "2026-11-15T15:08:06.941Z"
+          "lastSyncedAt": "2026-11-16T05:40:08.489Z"
         }
       ]
     },

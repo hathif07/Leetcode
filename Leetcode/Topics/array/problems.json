@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T05:37:37.148Z",
+  "updatedAt": "2026-11-16T05:37:57.526Z",
   "problems": [
     {
       "frontendId": "1",
@@ -434,8 +434,8 @@
       "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
-      "folderPath": "Leetcode/3550-smallest-index-with-digit-sum-equal-to-index/",
-      "readmePath": "Leetcode/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "folderPath": "Leetcode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "Leetcode/Easy/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
       "solutions": [
         {
           "language": "Java",
@@ -443,7 +443,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
           "path": "Leetcode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "5c65fe8dd68ed93187dbdd23cd267a9812f8a592",
-          "lastSyncedAt": "2026-11-15T15:06:02.585Z"
+          "lastSyncedAt": "2026-11-16T05:37:57.526Z"
         }
       ]
     },

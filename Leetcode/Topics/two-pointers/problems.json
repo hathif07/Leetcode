@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-16T05:41:20.583Z",
+  "updatedAt": "2026-11-16T05:41:29.274Z",
   "problems": [
     {
       "frontendId": "26",
@@ -74,8 +74,8 @@
       "problemName": "0088-merge-sorted-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
-      "folderPath": "Leetcode/0088-merge-sorted-array/",
-      "readmePath": "Leetcode/0088-merge-sorted-array/README.md",
+      "folderPath": "Leetcode/Easy/0088-merge-sorted-array/",
+      "readmePath": "Leetcode/Easy/0088-merge-sorted-array/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -83,7 +83,7 @@
           "filename": "0088-merge-sorted-array.py",
           "path": "Leetcode/0088-merge-sorted-array/0088-merge-sorted-array.py",
           "sha": "8c5ef45c9b3fb455d62a78903fba545c09563c4c",
-          "lastSyncedAt": "2026-11-15T15:09:19.912Z"
+          "lastSyncedAt": "2026-11-16T05:41:29.274Z"
         }
       ]
     },

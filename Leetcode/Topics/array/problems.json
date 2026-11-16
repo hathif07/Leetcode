@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T05:43:12.402Z",
+  "updatedAt": "2026-11-16T05:43:27.972Z",
   "problems": [
     {
       "frontendId": "1",
@@ -354,8 +354,8 @@
       "problemName": "1582-special-positions-in-a-binary-matrix",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/",
-      "folderPath": "Leetcode/1582-special-positions-in-a-binary-matrix/",
-      "readmePath": "Leetcode/1582-special-positions-in-a-binary-matrix/README.md",
+      "folderPath": "Leetcode/Easy/1582-special-positions-in-a-binary-matrix/",
+      "readmePath": "Leetcode/Easy/1582-special-positions-in-a-binary-matrix/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -363,7 +363,7 @@
           "filename": "1582-special-positions-in-a-binary-matrix.py",
           "path": "Leetcode/1582-special-positions-in-a-binary-matrix/1582-special-positions-in-a-binary-matrix.py",
           "sha": "cb8c2ddbd7ac3045139a246f6a3ea9c3b06d6864",
-          "lastSyncedAt": "2026-11-15T15:11:06.749Z"
+          "lastSyncedAt": "2026-11-16T05:43:27.972Z"
         }
       ]
     },

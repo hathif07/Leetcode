@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-16T06:08:21.284Z",
+  "updatedAt": "2026-11-16T06:13:13.248Z",
   "problems": [
     {
       "frontendId": "26",
@@ -203,7 +203,7 @@
           "filename": "0392-is-subsequence.java",
           "path": "Leetcode/0392-is-subsequence/0392-is-subsequence.java",
           "sha": "12b2b43557b3aefaeb99c0e5924b0eabb6f1ad27",
-          "lastSyncedAt": "2026-11-16T06:02:16.547Z"
+          "lastSyncedAt": "2026-11-16T06:13:13.248Z"
         }
       ]
     },

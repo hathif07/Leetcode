@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-15T15:11:15.066Z",
+  "updatedAt": "2026-11-16T05:39:46.986Z",
   "problems": [
     {
       "frontendId": "67",
@@ -34,8 +34,8 @@
       "problemName": "0258-add-digits",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
-      "folderPath": "Leetcode/0258-add-digits/",
-      "readmePath": "Leetcode/0258-add-digits/README.md",
+      "folderPath": "Leetcode/Easy/0258-add-digits/",
+      "readmePath": "Leetcode/Easy/0258-add-digits/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -43,7 +43,7 @@
           "filename": "0258-add-digits.py",
           "path": "Leetcode/0258-add-digits/0258-add-digits.py",
           "sha": "1f0809760c610be5f8cded866c8e16837e333ce3",
-          "lastSyncedAt": "2026-11-15T15:07:47.568Z"
+          "lastSyncedAt": "2026-11-16T05:39:46.986Z"
         }
       ]
     },

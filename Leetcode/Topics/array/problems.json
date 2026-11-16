@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T06:29:30.131Z",
+  "updatedAt": "2026-11-16T06:29:37.396Z",
   "problems": [
     {
       "frontendId": "1",
@@ -503,7 +503,7 @@
           "filename": "3737-count-subarrays-with-majority-element-i.c",
           "path": "Leetcode/3737-count-subarrays-with-majority-element-i/3737-count-subarrays-with-majority-element-i.c",
           "sha": "90b1846d8f1b98165986c5794d0d67923cc3b682",
-          "lastSyncedAt": "2026-11-16T06:19:30.063Z"
+          "lastSyncedAt": "2026-11-16T06:29:37.396Z"
         }
       ]
     },

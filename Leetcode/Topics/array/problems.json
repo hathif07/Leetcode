@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-16T06:37:11.756Z",
+  "updatedAt": "2026-11-16T06:37:30.966Z",
   "problems": [
     {
       "frontendId": "1",
@@ -443,7 +443,7 @@
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
           "path": "Leetcode/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "5c65fe8dd68ed93187dbdd23cd267a9812f8a592",
-          "lastSyncedAt": "2026-11-16T06:23:07.751Z"
+          "lastSyncedAt": "2026-11-16T06:37:30.966Z"
         }
       ]
     },

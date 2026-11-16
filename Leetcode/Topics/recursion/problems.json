@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-16T06:25:04.904Z",
+  "updatedAt": "2026-11-16T06:29:57.574Z",
   "problems": [
     {
       "frontendId": "21",
@@ -43,7 +43,7 @@
           "filename": "0050-powx-n.c",
           "path": "Leetcode/0050-powx-n/0050-powx-n.c",
           "sha": "22431b3019ba25cd86e2fe17dab53ec7afe515d6",
-          "lastSyncedAt": "2026-11-16T06:19:48.889Z"
+          "lastSyncedAt": "2026-11-16T06:29:57.574Z"
         }
       ]
     },

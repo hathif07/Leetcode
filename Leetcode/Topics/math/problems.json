@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-16T06:08:13.607Z",
+  "updatedAt": "2026-11-16T06:08:21.284Z",
   "problems": [
     {
       "frontendId": "9",
@@ -443,7 +443,7 @@
           "filename": "3750-minimum-number-of-flips-to-reverse-binary-string.py",
           "path": "Leetcode/3750-minimum-number-of-flips-to-reverse-binary-string/3750-minimum-number-of-flips-to-reverse-binary-string.py",
           "sha": "63c1ec2e38ef919adca69436b002ac47dc86e370",
-          "lastSyncedAt": "2026-11-16T05:56:22.529Z"
+          "lastSyncedAt": "2026-11-16T06:08:21.284Z"
         }
       ]
     },

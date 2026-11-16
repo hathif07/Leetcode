@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-11-16T06:12:47.405Z",
+  "updatedAt": "2026-11-16T06:17:33.732Z",
   "problems": [
     {
       "frontendId": "20",
@@ -23,7 +23,7 @@
           "filename": "0020-valid-parentheses.py",
           "path": "Leetcode/0020-valid-parentheses/0020-valid-parentheses.py",
           "sha": "4140ebf5fe4910553638ec0b74f9acb9034fcff3",
-          "lastSyncedAt": "2026-11-16T06:06:37.562Z"
+          "lastSyncedAt": "2026-11-16T06:17:33.732Z"
         }
       ]
     },

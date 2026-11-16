@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-15T15:12:30.402Z",
+  "updatedAt": "2026-11-16T05:39:01.689Z",
   "problems": [
     {
       "frontendId": "21",
@@ -54,8 +54,8 @@
       "problemName": "0231-power-of-two",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
-      "folderPath": "Leetcode/0231-power-of-two/",
-      "readmePath": "Leetcode/0231-power-of-two/README.md",
+      "folderPath": "Leetcode/Easy/0231-power-of-two/",
+      "readmePath": "Leetcode/Easy/0231-power-of-two/README.md",
       "solutions": [
         {
           "language": "Python",
@@ -63,7 +63,7 @@
           "filename": "0231-power-of-two.py",
           "path": "Leetcode/0231-power-of-two/0231-power-of-two.py",
           "sha": "c1d08f525647cbaa6d8193c5fe76c567a90d995d",
-          "lastSyncedAt": "2026-11-15T15:07:02.968Z"
+          "lastSyncedAt": "2026-11-16T05:39:01.689Z"
         }
       ]
     },

@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-16T05:39:42.244Z",
+  "updatedAt": "2026-11-16T05:40:22.923Z",
   "problems": [
     {
       "frontendId": "70",
@@ -174,8 +174,8 @@
       "problemName": "3954-sum-of-compatible-numbers-in-range-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
-      "folderPath": "Leetcode/3954-sum-of-compatible-numbers-in-range-i/",
-      "readmePath": "Leetcode/3954-sum-of-compatible-numbers-in-range-i/README.md",
+      "folderPath": "Leetcode/Easy/3954-sum-of-compatible-numbers-in-range-i/",
+      "readmePath": "Leetcode/Easy/3954-sum-of-compatible-numbers-in-range-i/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -183,7 +183,7 @@
           "filename": "3954-sum-of-compatible-numbers-in-range-i.py",
           "path": "Leetcode/3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.py",
           "sha": "81d9763ccca30c757cec6e9dc659101075cad80b",
-          "lastSyncedAt": "2026-11-15T15:08:19.615Z"
+          "lastSyncedAt": "2026-11-16T05:40:22.923Z"
         }
       ]
     }

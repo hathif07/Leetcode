@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-16T05:40:29.722Z",
+  "updatedAt": "2026-11-16T05:40:43.513Z",
   "problems": [
     {
       "frontendId": "70",
@@ -74,8 +74,8 @@
       "problemName": "0121-best-time-to-buy-and-sell-stock",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-      "folderPath": "Leetcode/0121-best-time-to-buy-and-sell-stock/",
-      "readmePath": "Leetcode/0121-best-time-to-buy-and-sell-stock/README.md",
+      "folderPath": "Leetcode/Easy/0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "Leetcode/Easy/0121-best-time-to-buy-and-sell-stock/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -83,7 +83,7 @@
           "filename": "0121-best-time-to-buy-and-sell-stock.py",
           "path": "Leetcode/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "a7138b47633947c9c844077ecf0e8600ae035c0d",
-          "lastSyncedAt": "2026-11-15T15:08:38.426Z"
+          "lastSyncedAt": "2026-11-16T05:40:43.513Z"
         }
       ]
     },

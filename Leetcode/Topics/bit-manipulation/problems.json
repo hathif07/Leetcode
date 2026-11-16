@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-16T06:23:11.859Z",
+  "updatedAt": "2026-11-16T06:24:11.044Z",
   "problems": [
     {
       "frontendId": "67",
@@ -103,7 +103,7 @@
           "filename": "0231-power-of-two.py",
           "path": "Leetcode/0231-power-of-two/0231-power-of-two.py",
           "sha": "c1d08f525647cbaa6d8193c5fe76c567a90d995d",
-          "lastSyncedAt": "2026-11-16T06:14:01.153Z"
+          "lastSyncedAt": "2026-11-16T06:24:11.044Z"
         }
       ]
     },

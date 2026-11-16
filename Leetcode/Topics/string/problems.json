@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-16T05:43:01.867Z",
+  "updatedAt": "2026-11-16T05:43:24.793Z",
   "problems": [
     {
       "frontendId": "13",
@@ -494,8 +494,8 @@
       "problemName": "1758-minimum-changes-to-make-alternating-binary-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/",
-      "folderPath": "Leetcode/1758-minimum-changes-to-make-alternating-binary-string/",
-      "readmePath": "Leetcode/1758-minimum-changes-to-make-alternating-binary-string/README.md",
+      "folderPath": "Leetcode/Easy/1758-minimum-changes-to-make-alternating-binary-string/",
+      "readmePath": "Leetcode/Easy/1758-minimum-changes-to-make-alternating-binary-string/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -503,7 +503,7 @@
           "filename": "1758-minimum-changes-to-make-alternating-binary-string.py",
           "path": "Leetcode/1758-minimum-changes-to-make-alternating-binary-string/1758-minimum-changes-to-make-alternating-binary-string.py",
           "sha": "611973e308ea489d14ea04354858b2cdb6ff909b",
-          "lastSyncedAt": "2026-11-15T15:11:04.633Z"
+          "lastSyncedAt": "2026-11-16T05:43:24.793Z"
         }
       ]
     },

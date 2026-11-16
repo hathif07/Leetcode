@@ -5,7 +5,7 @@
     "name": "Boyer–Moore Majority Vote Algorithm",
     "tagId": "122032"
   },
-  "updatedAt": "2026-11-15T15:07:28.947Z",
+  "updatedAt": "2026-11-16T05:39:28.261Z",
   "problems": [
     {
       "frontendId": "169",
@@ -14,8 +14,8 @@
       "problemName": "0169-majority-element",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
-      "folderPath": "Leetcode/0169-majority-element/",
-      "readmePath": "Leetcode/0169-majority-element/README.md",
+      "folderPath": "Leetcode/Easy/0169-majority-element/",
+      "readmePath": "Leetcode/Easy/0169-majority-element/README.md",
       "solutions": [
         {
           "language": "Python3",
@@ -23,7 +23,7 @@
           "filename": "0169-majority-element.py",
           "path": "Leetcode/0169-majority-element/0169-majority-element.py",
           "sha": "711616899c63666e112178f381072907c231bc7a",
-          "lastSyncedAt": "2026-11-15T15:07:28.947Z"
+          "lastSyncedAt": "2026-11-16T05:39:28.261Z"
         }
       ]
     }
